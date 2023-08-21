@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cherrri
 - 👀 I’m interested in web development. 
-- 🌱 I’m currently learning css and html. 
+- 🌱 I’m currently learning css,html, and python 3. 
 - 💞️ I’m looking to collaborate on anything! 
 - 📫 How to reach me on twitter @destdess
 
