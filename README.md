@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cherrri
+- 👋 Hi, I’m @Destanee
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning css,html, and python 3. 
 - 💞️ I’m looking to collaborate on anything! 
